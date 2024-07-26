@@ -3,3 +3,5 @@ test pr
 
 test
 test master push
+
+adb
